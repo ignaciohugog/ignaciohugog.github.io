@@ -1,4 +1,4 @@
-const categories = { personal: [{ url: `/posts/hello-world/`, date: `10 Oct 2023`, title: `Hello world!`},],draft: [{ url: `/posts/hello-world/`, date: `10 Oct 2023`, title: `Hello world!`},], }
+const categories = { personal: [{ url: `/posts/hello-world/`, date: `10 Oct 2023`, title: `Hello world!`},], }
 
 console.log(categories)
 
